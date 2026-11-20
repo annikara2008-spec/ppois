@@ -1,0 +1,22 @@
+# VS Code
+.vscode/
+
+# Скомпилированные файлы и объектный код C++
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Папки сборки (CMake, Make, MSBuild)
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
